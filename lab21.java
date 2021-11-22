@@ -1,4 +1,4 @@
-//использование цикла for
+//использование цикла while
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class lab21 {
